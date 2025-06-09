@@ -90,3 +90,11 @@ tr.row0 {
 select {
  height: 30px;
  }
+ 
+ .flash-message {
+    background-color: #d4edda; /* 緑色の背景 */
+    color: #155724; /* 緑色のテキスト */
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
